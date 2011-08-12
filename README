@@ -1,0 +1,1 @@
+Simple I/O line abstraction to allow making I/O through shift registers, for example. It also contains the DefaultLineDriver class that implements the LineDriver interface in terms of Arduino standard functions pinMode(), digitalRead() and digitalWrite().
