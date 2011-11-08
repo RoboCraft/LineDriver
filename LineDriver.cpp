@@ -17,9 +17,9 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
  */
 
-#include "LineDriver.h"
 #include <inttypes.h>
-#include "WProgram.h"
+#include "LineDriver.h"
+#include "Arduino.h"
 
 DefaultLineDriver DefaultLineDriver::g_instance;
 
