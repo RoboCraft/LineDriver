@@ -1,6 +1,8 @@
 /* LineDriver is the interface designed to abstact the hardware from I/O pins implementations.
  * 
- * Copyright (C) 2011 Artem Borisovskiy (bytefu@gmail.com).
+ * See the article introducing LineDriver at http://robocraft.ru/blog/arduino/541.html
+ * 
+ * Copyright (C) 2011 Artem Borisovskiy (bytefu@gmail.com), http://robocraft.ru
  * 
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
